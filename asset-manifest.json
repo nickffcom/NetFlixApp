@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/NetFlixApp/static/css/main.13e31284.css",
+    "main.js": "/NetFlixApp/static/js/main.513157a5.js",
+    "static/media/logo.png": "/NetFlixApp/static/media/logo.73095284cd79acda4276.png",
+    "index.html": "/NetFlixApp/index.html",
+    "main.13e31284.css.map": "/NetFlixApp/static/css/main.13e31284.css.map",
+    "main.513157a5.js.map": "/NetFlixApp/static/js/main.513157a5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.13e31284.css",
+    "static/js/main.513157a5.js"
+  ]
+}
